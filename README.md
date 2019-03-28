@@ -1,2 +1,2 @@
 # webpack4
-配置一个webpack
+webpack.config.js
