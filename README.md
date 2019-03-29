@@ -1,2 +1,2 @@
 # webpack4
-webpack.config.js1
+配置webpack.config.js
